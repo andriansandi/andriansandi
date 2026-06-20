@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Andrian Sandi
+# 👋 Hi, I'm Sandi Andrian
 
 🚀 Technology Leader, AI Builder, and Full-Stack Engineer from Indonesia.
 
